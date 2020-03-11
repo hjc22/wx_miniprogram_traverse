@@ -1,0 +1,8 @@
+*.DS_Store
+miniprogram_npm/
+node_modules/
+Src*/
+zfb_dist/
+bd_dist/
+*_dist*
+*.md

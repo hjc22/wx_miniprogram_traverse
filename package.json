@@ -1,0 +1,34 @@
+{
+  "name": "wx_miniprogram_traverse",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index z"
+  },
+  "bin": {
+    "tjmpt": "index.js"
+  },
+  "author": "hjc",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "6.26.3",
+    "babel-generator": "6.26.1",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-preset-es2015": "6.24.1",
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "commander": "2.19.0",
+    "console-color-mr": "2.0.0",
+    "node-sass": "4.10.0",
+    "ora": "3.0.0",
+    "parsewxml": "1.0.0",
+    "postcss": "7.0.5",
+    "prettier": "1.14.3",
+    "recursive-copy": "2.0.9",
+    "rmdir-promise": "1.0.0",
+    "wx_traverse_fit": "1.0.0"
+  }
+}
