@@ -22,7 +22,7 @@
     "babylon": "6.18.0",
     "commander": "2.19.0",
     "console-color-mr": "2.0.0",
-    "node-sass": "4.10.0",
+    "node-sass": "7.0.0",
     "ora": "3.0.0",
     "parsewxml": "1.0.0",
     "postcss": "7.0.5",
